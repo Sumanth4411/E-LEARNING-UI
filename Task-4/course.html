@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Course Details</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>CODTECH E-Learning</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="#">Courses</a>
+            <a href="#">Dashboard</a>
+            <a href="#">Login</a>
+        </nav>
+    </header>
+
+    <section class="course-detail">
+        <h2>Introduction to AI</h2>
+        <p>Learn the basics of Artificial Intelligence.</p>
+
+        <div class="video-container">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/2ePf9rue1Ao" frameborder="0" allowfullscreen></iframe>
+        </div>
+
+        <h3>Progress Tracking</h3>
+        <div class="progress-bar">
+            <div class="progress" id="progress-bar">0%</div>
+        </div>
+
+        <button onclick="updateProgress()">Mark as Completed</button>
+    </section>
+
+    <footer>
+        <p>© 2025 CODTECH. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
