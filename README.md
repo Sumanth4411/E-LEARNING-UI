@@ -1,16 +1,10 @@
 # E-LEARNING-UI
 
-#CODETECH IT SOLUTIONS
+
 
 #NAME: S.SUMANTH KUMAR
 
-#DURATION: 4 WEEKS
 
-#INTERN ID= CT04WR273
-
-COURSE: FRONTEND WEB DEVELOPMENT
-
-#MENTOR NAME: NEELA SANTHOSH
 
 # DESCRPTION: 
 The visual design of an e-learning UI should embody simplicity and intuitiveness, using clean lines, a coherent color scheme, and a well-organized layout that directs attention to essential elements. One of the most critical aspects of e-learning UI is the course dashboard, which serves as the user's main interface to navigate through different learning materials and monitor their progress. A well-designed dashboard should feature easy-to-read progress indicators, course completion status, and access to all necessary course materials. Learners should be able to quickly find what they need, whether it’s upcoming lessons, quizzes, assignments, or discussion forums, with minimal effort.
